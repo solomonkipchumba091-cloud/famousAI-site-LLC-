@@ -14,7 +14,7 @@ A modern, production-ready web application built with **React**, **TypeScript**,
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/hak193/i-devr-code-llc-famousai-site)
    cd i-devr-code-llc-famousai-site
    ```
 
