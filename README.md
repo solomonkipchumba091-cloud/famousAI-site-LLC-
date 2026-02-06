@@ -14,8 +14,8 @@ A modern, production-ready web application built with **React**, **TypeScript**,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hak193/i-devr-code-llc-famousai-site
-   cd i-devr-code-llc-famousai-site
+   git clone https://github.com/solomonkipchumba091-cloud/famousAI-site-LLC
+   cd famousAI-site-LLC
    ```
 
 2. Install dependencies:
