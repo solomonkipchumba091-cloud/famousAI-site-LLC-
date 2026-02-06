@@ -150,6 +150,3 @@ src/
 └── main.tsx        # Entry point
 ```
 
-## 📄 License
-
-Proprietary - i-DevR Code LLC. All rights reserved.
